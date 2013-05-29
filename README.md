@@ -1,6 +1,8 @@
 Genetic Synth (prototype)
 =========================
 
+Made for this exhibition: http://immmedialab.wordpress.com/2013/05/06/izlozba-soundart-bioart-10-18-svibnja-tehnicki-muzej/
+
 ![](/pics/genesynth.jpg "")
 
 ###English
